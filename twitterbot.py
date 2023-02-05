@@ -8,7 +8,7 @@ driver.get("https://twitter.com/i/flow/login")
 time.sleep(9)
 
 username = driver.find_element(By.TAG_NAME,"input")
-username.send_keys("Anapplefell1")
+username.send_keys("Bluewaters11")
 
 time.sleep(4)
 
@@ -18,7 +18,7 @@ next[-2].click()
 time.sleep(6)
 
 password = driver.find_element(By.XPATH,"//input[@type='password']")
-password.send_keys("pineappleincident83")
+password.send_keys("pinekones11")
 
 time.sleep(2)
 
